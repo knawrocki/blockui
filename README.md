@@ -150,4 +150,4 @@ elem.setIcon("new Icon");
 
 
 ## Copyright and License
-Copyright &copy; 20010-2017 Hürkan ARAS.
+Copyright &copy; 2010-2017 Hürkan ARAS.
