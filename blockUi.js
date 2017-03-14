@@ -109,7 +109,7 @@
 												 }).each(function(){
 													$(this) .append($(content)); 
 												 });
-												$this.prepend(container).queue(function(){
+												$this.prepend(container).ready(function(){
 													$this.data("_blockUi",$this.find("."+blockContainerClass));	
 												});		
 														 $this.data("_append",1);	
@@ -126,7 +126,7 @@
 											var container = $(config.template.container).addClass( config.addClass).css(element.css);
 											 $this.data("_append",0);	
 
-											$("body").append(container.detach().append($(content))).queue(function(){
+											$("body").append(container.detach().append($(content))).ready(function(){
 												
 											 
 											});
