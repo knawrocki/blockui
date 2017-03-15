@@ -1,8 +1,9 @@
 # jQuery BlockUI Plugin - Element overlay
 ## Getting Started
-Download either the [production version][min] or the [development version][max] of BlockUI.
 [min]: https://raw.githubusercontent.com/hurkanaras/blockui/master/blockUi.min.js
 [max]: https://raw.githubusercontent.com/hurkanaras/blockui/master/blockUi.js
+Download either the [production version][min] or the [development version][max] of BlockUI.
+
 
 <pre>
 &lt;!-- include jQuery -->
