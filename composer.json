@@ -1,0 +1,13 @@
+{
+	"name"        : "knawrocki/blockui",
+	"description" : "jQuery BlockUI Plugin - Element overlay",
+	"version"     : "1.0.0",
+	"license"     : "MIT",
+	"authors": [
+		{
+	    "name" : "Hürkan ARAS",
+	    "url" : "https://www.hurkanaras.com.tr"
+		}
+	]
+
+}
